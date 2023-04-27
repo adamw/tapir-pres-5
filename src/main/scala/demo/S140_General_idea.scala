@@ -1,6 +1,6 @@
-package com.softwaremill.demo
+package demo
 
-object S140_General_idea {
+object S140_General_idea:
   // Our programming languages are really good at manipulating data
   def _1: String = "Describe the endpoint using a data structure"
 
@@ -9,4 +9,3 @@ object S140_General_idea {
   def _3: String = "Convert the data structure to documentation or a client"
 
   def _4: String = "Profit!"
-}
