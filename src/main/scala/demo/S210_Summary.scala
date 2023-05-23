@@ -1,6 +1,6 @@
 package demo
 
-object S200_Summary:
+object S210_Summary:
   def _1: String = "Type-safe description of HTTP endpoints"
 
   def _2: String = "The tapir API gives nice syntax to create the data structure"
